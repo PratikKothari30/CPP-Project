@@ -20,4 +20,4 @@ The program uses a fixed-size array to store player information. It supports a m
 - C++ programming language
 - Object-Oriented Programming (OOP) concepts
 
-# Feel free to explore and contribute to this repository!
+Feel free to explore and contribute to this repository!
