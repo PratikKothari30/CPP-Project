@@ -1,7 +1,7 @@
 # CPP-Project
 
 # Player Management System
-# A simple C++ program for managing player details, designed to store, display, add, search, and remove player statistics. The system allows for tracking players' matches played, runs, wickets, and jersey numbers, with functionality to handle a list of up to 13 players.
+A simple C++ program for managing player details, designed to store, display, add, search, and remove player statistics. The system allows for tracking players' matches played, runs, wickets, and jersey numbers, with functionality to handle a list of up to 13 players.
 
 # Features
 - Display Player Information: View the details of all players stored in the system.
